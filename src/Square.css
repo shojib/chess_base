@@ -1,0 +1,20 @@
+.square
+{
+    float: left;
+    position: relative;
+}
+
+.square-white
+{
+    background-color: #7a9db2;
+}
+
+.square-black
+{
+    background-color: #c5d5dc;
+}
+
+.piece
+{
+    width: 90%;
+}

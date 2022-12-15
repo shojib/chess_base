@@ -1,0 +1,21 @@
+.row
+{
+    display: block;
+}
+
+.clearfix
+{
+    clear: both;
+}
+
+.nnot
+{
+    position: absolute;;
+}
+
+.anot
+{
+    position: absolute;
+    bottom: 1px;
+    right: 3px;
+}
